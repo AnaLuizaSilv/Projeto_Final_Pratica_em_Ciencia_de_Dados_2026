@@ -78,7 +78,9 @@ Para utilizar o projeto, clone o repositório em sua máquina, garantindo a exis
 ## Informações adicionais
 - Exemplos de arquivos nos formatos .txt e .xlsx que podem ser utilizados para análise de incertezas ou não e cuja estrutura é aceita pelo projeto encontram-se na pasta "Exemplos de documentos para análises", estando devidamente identificados para o caso que atendem;
 
-- Exemplos de tabelas e gráficos obtidos com as análises realizadas encontram-se na pasta "Exemplo de resultados", juntamente com sua identificação.
+- Exemplos de tabelas e gráficos obtidos com as análises realizadas encontram-se na pasta "Exemplo de resultados", juntamente com sua identificação;
+
+- O projeto e seu código encontram-se com o nome "Projeto Final PCD", no formato de Jupyter Notebook.
 
 ## Conclusão
 Com base no desenvolvimento e utilização do projeto, verifica-se que ele cumpre ao objetivo que se propôs, integrando o recebimento, interpretação, análise e visualização dos dados experimentais recebidos. A automatização da geração de gráficos e cálculo de parâmetros estatísticos apresenta amplo potencial de minimizar erros associados a cálculos e estimativas manuais, além de reduzir o tempo empregado para esse processo. Em síntese, o desenvolvimento da atividade foi satisfatório e útil para verificar e consolidar todos os conceitos vistos na disciplina de Práticas em Ciência de Dados, além de culminar em um projeto útil a ser utilizado em outras disciplinas e análises experimentais futuras.

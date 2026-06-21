@@ -45,19 +45,19 @@
 ## Bibliotecas utilizadas
 - pandas - utilizada na etapa de inserção e leitura dos dados fornecidos;
   
-- numpy - utilizada na etapa de geração dos gráficos e ajustes;
+- numpy - utilizada na etapa de geração dos gráficos e ajustes [4];
   
 - math - utilizada para cálculos associados às funções auxiliares desenvolvidas;
   
-- ipywidgets - utilizada para criação de uma interface interativa para guiar o usuário nas etapas de exportação da tabela e escolha dos parâmetros para os gráficos;
+- ipywidgets - utilizada para criação de uma interface interativa para guiar o usuário nas etapas de exportação da tabela e escolha dos parâmetros para os gráficos [5];
   
-- matplotlib.pyplot - utilizada para a geração e viualização dos gráficos;
+- matplotlib.pyplot - utilizada para a geração e viualização dos gráficos [6,7];
   
-- ast - utilização do objeto "literal_eval" durante a etapa de recebimento dos dados para avaliar os dados inseridos pelo usuário;
+- ast - utilização do objeto "literal_eval" durante a etapa de recebimento dos dados para avaliar os dados inseridos pelo usuário [8];
 
-- scipy.stats - uso do objeto "t" durante a etapa de geração dos gráficos para calcular o valor crítico associado aos valores informados para a análise de incertezas por meio da distribuição t-Student.
+- scipy.stats - uso do objeto "t" durante a etapa de geração dos gráficos para calcular o valor crítico associado aos valores informados para a análise de incertezas por meio da distribuição t-Student [9].
   
-- IPython.display - uso do objeto "display" para exibição do Dataframe de devolução dos parâmetros estatísticos e dos gráficos e opções de escolha associados aos ajustes e exportações.
+- IPython.display - uso do objeto "display" para exibição do Dataframe de devolução dos parâmetros estatísticos e dos gráficos e opções de escolha associados aos ajustes e exportações [10].
 
 
 ## Funcionalidades
@@ -119,20 +119,22 @@ Agradeço aos professores docentes responsáveis por ministrar a disciplina de P
 
 
 ## Referências
-Hoffmann, R., & Univeridade de São Paulo. Escola Superior de Agricultura Luiz de Queiroz. (2017). Análise de regressão: uma introdução à econometria. Univeridade de São Paulo. Escola Superior de Agricultura Luiz de Queiroz.
+[1] Hoffmann, R., & Univeridade de São Paulo. Escola Superior de Agricultura Luiz de Queiroz. (2017). Análise de regressão: uma introdução à econometria. Univeridade de São Paulo. Escola Superior de Agricultura Luiz de Queiroz.
 
-De, F. L. P. (s. d.). Modelo de regressão linear Teoria e aplicações. Ufpr.br. Acesso em 18 de junho de 2026, de http://leg.ufpr.br/~lucambio/Linear/Regressao.pdf
+[2] De, F. L. P. (s. d.). Modelo de regressão linear Teoria e aplicações. Ufpr.br. Acesso em 18 de junho de 2026, de http://leg.ufpr.br/~lucambio/Linear/Regressao.pdf
 
-Dalson Figueiredo Filho, Felipe Nunes, Enivaldo Rocha, Manoel Santos, Mariana Batista, José Alexandre Junior. (2011). O que fazer e o que não fazer com a regressão: pressupostos e aplicações do modelo linear de mínimos quadrados ordinários (MQO) [Data set]. Harvard Dataverse.
+[3] Dalson Figueiredo Filho, Felipe Nunes, Enivaldo Rocha, Manoel Santos, Mariana Batista, José Alexandre Junior. (2011). O que fazer e o que não fazer com a regressão: pressupostos e aplicações do modelo linear de mínimos quadrados ordinários (MQO) [Data set]. Harvard Dataverse.
 
-Simple Widget Introduction — Jupyter Widgets 8.1.8 documentation. (s. d.). Readthedocs.Io. Acesso em 18 de junho de 2026, de https://ipywidgets.readthedocs.io/en/latest/examples/Widget%20Basics.html
+[4] W3schools.com. (s. d.). W3schools.com. Acesso em 18 de junho de 2026, de https://www.w3schools.com/python/numpy/numpy_intro.asp
 
-Module: display — IPython 9.14.1 documentation. (s. d.). Readthedocs.Io. Acesso em 18 de junho de 2026, de https://ipython.readthedocs.io/en/stable/api/generated/IPython.display.html
+[5] Simple Widget Introduction — Jupyter Widgets 8.1.8 documentation. (s. d.). Readthedocs.Io. Acesso em 18 de junho de 2026, de https://ipywidgets.readthedocs.io/en/latest/examples/Widget%20Basics.html
 
-Pyplot tutorial — Matplotlib 3.11.0 documentation. (s. d.). Matplotlib.org. Acesso em 18 de junho de 2026, de https://matplotlib.org/stable/tutorials/pyplot.html
+[6] Pyplot tutorial — Matplotlib 3.11.0 documentation. (s. d.). Matplotlib.org. Acesso em 18 de junho de 2026, de https://matplotlib.org/stable/tutorials/pyplot.html
 
-W3schools.com. (s. d.). W3schools.com. Acesso em 18 de junho de 2026, de https://www.w3schools.com/python/numpy/numpy_intro.asp
+[7] W3schools.com. (s. d.-c). W3schools.com. Acesso em 18 de junho de 2026, de https://www.w3schools.com/python/matplotlib_intro.asp
 
-W3schools.com. (s. d.-b). W3schools.com. Acesso em 18 de junho de 2026, de https://www.w3schools.com/python/scipy/index.php
+[8]ast — Árvores de sintaxe abstrata. Acesso em: 18 de junho de 2026. Disponível em: <https://docs.python.org/pt-br/3/library/ast.html>.
 
-W3schools.com. (s. d.-c). W3schools.com. Acesso em 18 de junho de 2026, de https://www.w3schools.com/python/matplotlib_intro.asp
+[9] W3schools.com. (s. d.-b). W3schools.com. Acesso em 18 de junho de 2026, de https://www.w3schools.com/python/scipy/index.php
+
+[10] Module: display — IPython 9.14.1 documentation. (s. d.). Readthedocs.Io. Acesso em 18 de junho de 2026, de https://ipython.readthedocs.io/en/stable/api/generated/IPython.display.html

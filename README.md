@@ -129,4 +129,10 @@ Simple Widget Introduction — Jupyter Widgets 8.1.8 documentation. (s. d.). Rea
 
 Module: display — IPython 9.14.1 documentation. (s. d.). Readthedocs.Io. Acesso em 18 de junho de 2026, de https://ipython.readthedocs.io/en/stable/api/generated/IPython.display.html
 
+Pyplot tutorial — Matplotlib 3.11.0 documentation. (s. d.). Matplotlib.org. Acesso em 18 de junho de 2026, de https://matplotlib.org/stable/tutorials/pyplot.html
+
 W3schools.com. (s. d.). W3schools.com. Acesso em 18 de junho de 2026, de https://www.w3schools.com/python/numpy/numpy_intro.asp
+
+W3schools.com. (s. d.-b). W3schools.com. Acesso em 18 de junho de 2026, de https://www.w3schools.com/python/scipy/index.php
+
+W3schools.com. (s. d.-c). W3schools.com. Acesso em 18 de junho de 2026, de https://www.w3schools.com/python/matplotlib_intro.asp

@@ -29,15 +29,15 @@
 
 
 ## Descrição do projeto
-Projeto final desenvolvido para a disciplina de Práticas em Ciências de Dados no primeiro semestre de 2026. A proposta visa, através da linguagem de programação Python, integrar o recebimento, tratamento, organização, visualização e exportação de dados experimentais, permitindo ao usuário a inserção dos dados via arquivos nos formatos .txt e .xlsx ou manualmente, além de possibilitar a exportação de tabelas no formato .xlsx com os parâmetros estatísticos obtidos e gráficos no formato .png conforme o ajuste escolhido dentre as opções - linear, quadrático, exponencial ou logarítmico.
+<p align="justify"> Projeto final desenvolvido para a disciplina de Práticas em Ciências de Dados no primeiro semestre de 2026. A proposta visa, através da linguagem de programação Python, integrar o recebimento, tratamento, organização, visualização e exportação de dados experimentais, permitindo ao usuário a inserção dos dados via arquivos nos formatos .txt e .xlsx ou manualmente, além de possibilitar a exportação de tabelas no formato .xlsx com os parâmetros estatísticos obtidos e gráficos no formato .png conforme o ajuste escolhido dentre as opções - linear, quadrático, exponencial ou logarítmico.
 
 
 ## Objetivo
-Desenvolver uma ferramenta computacional em Python para análise estatística de dados experimentais, gerando tabelas e gráficos visualizáveis e exportáveis com as devidas análises de incertezas e parâmetros estatíscticos associados. O projeto integra o cálculo parâmetros estatísticos, realização de regressões matemáticas baseadas no Método dos Quadrados Mínimos e geração de barras de erro e de bandas de predição e confiança a fim de automatizar o tratamento e visualização desses dados.
+<p align="justify"> Desenvolver uma ferramenta computacional em Python para análise estatística de dados experimentais, gerando tabelas e gráficos visualizáveis e exportáveis com as devidas análises de incertezas e parâmetros estatíscticos associados. O projeto integra o cálculo parâmetros estatísticos, realização de regressões matemáticas baseadas no Método dos Quadrados Mínimos e geração de barras de erro e de bandas de predição e confiança a fim de automatizar o tratamento e visualização desses dados.
 
 
 ## Instruções para instalação
-Para utilizar o projeto, clone o repositório em sua máquina, garantindo a existência de um ambiente compatível com a linguagem Python, como o JupyterLab. Antes da execução do notebook, garanta a instalação de todas as bibliotecas utilizadas. Execute as células sequencialmente, adicionando os dados experimentais e informações solicitadas.
+<p align="justify"> Para utilizar o projeto, clone o repositório em sua máquina, garantindo a existência de um ambiente compatível com a linguagem Python, como o JupyterLab. Antes da execução do notebook, garanta a instalação de todas as bibliotecas utilizadas. Execute as células sequencialmente, adicionando os dados experimentais e informações solicitadas.
 
 
 ## Bibliotecas utilizadas
@@ -105,7 +105,15 @@ Para utilizar o projeto, clone o repositório em sua máquina, garantindo a exis
 
 
 ## Conclusão
-Com base no desenvolvimento e utilização do projeto, verifica-se que ele cumpre ao objetivo que se propôs, integrando o recebimento, interpretação, análise e visualização dos dados experimentais recebidos. A automatização da geração de gráficos e cálculo de parâmetros estatísticos apresenta amplo potencial de minimizar erros associados a cálculos e estimativas manuais, além de reduzir o tempo empregado para esse processo. Em síntese, o desenvolvimento da atividade foi satisfatório e útil para verificar e consolidar todos os conceitos vistos na disciplina de Práticas em Ciência de Dados, além de culminar em um projeto útil a ser utilizado em outras disciplinas e análises experimentais futuras.
+<p align="justify"> Com base no desenvolvimento e utilização do projeto, verifica-se que ele cumpre ao objetivo que se propôs, integrando o recebimento, interpretação, análise e visualização dos dados experimentais recebidos. A automatização da geração de gráficos e cálculo de parâmetros estatísticos apresenta amplo potencial de minimizar erros associados a cálculos e estimativas manuais, além de reduzir o tempo empregado para esse processo. Em síntese, o desenvolvimento da atividade foi satisfatório e útil para verificar e consolidar todos os conceitos vistos na disciplina de Práticas em Ciência de Dados, além de culminar em um projeto útil a ser utilizado em outras disciplinas e análises experimentais futuras.
+
+## Agradecimentos
+Agradeço aos professores docentes responsáveis por ministrar a disciplina de Práticas em Ciências de Dados no primeiro semestre letivo do ano de 2026 e por todo o suporte que ofereceram durante o desenvolvimento deste projeto.
+
+
+## Docentes responsáveis 
+| <img loading="lazy" src="https://github.com/user-attachments/assets/17dfa7bf-5ca9-42df-b63e-917827fc6308" width=115><br><sub> [Prof. Dr. Daneiel Roberto Cassar](http://lattes.cnpq.br/1717397276752482) | <img loading="lazy" src="https://github.com/user-attachments/assets/5be40392-5473-4b8b-b636-a55cbf0114fd" width=115><br><sub> [Prof. Dr. James Moraes de Almeida](http://lattes.cnpq.br/4169321429650165) |  <img loading="lazy" src="https://github.com/user-attachments/assets/ca8bd41b-c6d0-479c-aacd-a3d2c6b45c0d" width=115><br><sub> [Prof. Dr. Leandro Nascimento Lemos](http://lattes.cnpq.br/8039429508021054) |
+| :--: | :---: | :---: |
 
 
 ## Referências

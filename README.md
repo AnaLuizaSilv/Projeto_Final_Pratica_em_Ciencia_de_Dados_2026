@@ -2,7 +2,7 @@
 
 # Projeto final - Prática em Ciência de Dados 2026
 
-# Gráficos e cálculos e parâmetros estatísticos e incertezas para dados experimentais
+<h1 align="center"> Gráficos e cálculos e parâmetros estatísticos e incertezas para dados experimentais </h1>
 **Aluna:** Ana Luiza de Lima Silva.
 
 **Turma:** 2026
@@ -13,14 +13,18 @@
 
 **Instituição:** Ilum escola de ciência.
 
+
 ## Descrição do projeto
 Projeto final desenvolvido para a disciplina de Práticas em Ciências de Dados no primeiro semestre de 2026. A proposta visa, através da linguagem de programação Python, integrar o recebimento, tratamento, organização, visualização e exportação de dados experimentais, permitindo ao usuário a inserção dos dados via arquivos nos formatos .txt e .xlsx ou manualmente, além de possibilitar a exportação de tabelas no formato .xlsx com os parâmetros estatísticos obtidos e gráficos no formato .png conforme o ajuste escolhido dentre as opções - linear, quadrático, exponencial ou logarítmico.
+
 
 ## Objetivo
 Desenvolver uma ferramenta computacional em Python para análise estatística de dados experimentais, gerando tabelas e gráficos visualizáveis e exportáveis com as devidas análises de incertezas e parâmetros estatíscticos associados. O projeto integra o cálculo parâmetros estatísticos, realização de regressões matemáticas baseadas no Método dos Quadrados Mínimos e geração de barras de erro e de bandas de predição e confiança a fim de automatizar o tratamento e visualização desses dados.
 
+
 ## Instalação
 Para utilizar o projeto, clone o repositório em sua máquina, garantindo a existência de um ambiente compatível com a linguagem Python, como o JupyterLab. Antes da execução do notebook, garanta a instalação de todas as bibliotecas utilizadas. Execute as células sequencialmente, adicionando os dados experimentais e informações solicitadas.
+
 
 ## Bibliotecas utilizadas
 - pandas - utilizada na etapa de inserção e leitura dos dados fornecidos;
@@ -38,6 +42,7 @@ Para utilizar o projeto, clone o repositório em sua máquina, garantindo a exis
 - scipy.stats - uso do objeto "t" durante a etapa de geração dos gráficos para calcular o valor crítico associado aos valores informados para a análise de incertezas por meio da distribuição t-Student.
   
 - IPython.display - uso do objeto "display" para exibição do Dataframe de devolução dos parâmetros estatísticos e dos gráficos e opções de escolha associados aos ajustes e exportações.
+
 
 ## Funcionalidades
 - Importação e inserção de dados a partir de arquivos nos formatos .txt ou .xlsx ou via inserção manual a partir de listas;
@@ -58,6 +63,7 @@ Para utilizar o projeto, clone o repositório em sua máquina, garantindo a exis
   
 - Opção de exportação dos gráficos produzidos para o formato .png.
 
+
 ## Avisos importantes antes da utilização do projeto
 - Atente-se às opções oferecidas, aquelas que não estão explícitas não são aceitas ou reconhecidas. Por exemplo, se para o tipo de arquivo as opções são ".txt", ".xlsx" ou "não", escolha uma delas e garanta a grafia correta;
   
@@ -75,6 +81,7 @@ Para utilizar o projeto, clone o repositório em sua máquina, garantindo a exis
 
 - Para quaisquer ajustes que desejar estimar e prever o gráfico, certifique-se de inserir ao menos 4 medidas para que esses possam ser gerados adequadamente. Lembre-se que, quantos mais pontos inserir, mais precisas serão as análises.
 
+
 ## Informações adicionais
 - Exemplos de arquivos nos formatos .txt e .xlsx que podem ser utilizados para análise de incertezas ou não e cuja estrutura é aceita pelo projeto encontram-se na pasta "Exemplos de documentos para análises", estando devidamente identificados para o caso que atendem;
 
@@ -82,8 +89,10 @@ Para utilizar o projeto, clone o repositório em sua máquina, garantindo a exis
 
 - O projeto e seu código encontram-se com o nome "Projeto Final PCD", no formato de Jupyter Notebook.
 
+
 ## Conclusão
 Com base no desenvolvimento e utilização do projeto, verifica-se que ele cumpre ao objetivo que se propôs, integrando o recebimento, interpretação, análise e visualização dos dados experimentais recebidos. A automatização da geração de gráficos e cálculo de parâmetros estatísticos apresenta amplo potencial de minimizar erros associados a cálculos e estimativas manuais, além de reduzir o tempo empregado para esse processo. Em síntese, o desenvolvimento da atividade foi satisfatório e útil para verificar e consolidar todos os conceitos vistos na disciplina de Práticas em Ciência de Dados, além de culminar em um projeto útil a ser utilizado em outras disciplinas e análises experimentais futuras.
+
 
 ## Referências
 Hoffmann, R., & Univeridade de São Paulo. Escola Superior de Agricultura Luiz de Queiroz. (2017). Análise de regressão: uma introdução à econometria. Univeridade de São Paulo. Escola Superior de Agricultura Luiz de Queiroz.

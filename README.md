@@ -14,10 +14,10 @@
 **Instituição:** Ilum escola de ciência.
 
 ## Descrição do projeto
-Projeto final desenvolvido para a disciplina de Práticas em Ciências de Dados no primeiro semestre de 2026. A proposta visa integrar o recebimento, tratamento, organização, visualização e exportação de dados experimentais, permitindo ao usuário a inserção dos dados via arquivos nos formatos .txt e .xlsx ou manualmente, além de possibilitar a exportação de tabelas no formato .xlsx com os parâmetros estatísticos obtidos e gráficos no formato .png conforme o ajuste escolhido dentre as opções - linear, quadrático, exponencial ou logarítmico.
+Projeto final desenvolvido para a disciplina de Práticas em Ciências de Dados no primeiro semestre de 2026. A proposta visa, através da linguagem de programação Python, integrar o recebimento, tratamento, organização, visualização e exportação de dados experimentais, permitindo ao usuário a inserção dos dados via arquivos nos formatos .txt e .xlsx ou manualmente, além de possibilitar a exportação de tabelas no formato .xlsx com os parâmetros estatísticos obtidos e gráficos no formato .png conforme o ajuste escolhido dentre as opções - linear, quadrático, exponencial ou logarítmico.
 
 ## Objetivo
-Desenvolver uma ferramenta computacional em Python para análise estatística de dados experimentais, gerando tabelas e gráficos visualizáveis e exportáveis com as devidas análises de incertezas associadas. O projeto integra o cálculo parâmetros estatísticos, realização de regressões matemáticas baseadas no Método dos Quadrados Mínimos e geração de barras de erro e de bandas de predição e confiança a fim de automatizar o tratamento e visualização desses dados.
+Desenvolver uma ferramenta computacional em Python para análise estatística de dados experimentais, gerando tabelas e gráficos visualizáveis e exportáveis com as devidas análises de incertezas e parâmetros estatíscticos associados. O projeto integra o cálculo parâmetros estatísticos, realização de regressões matemáticas baseadas no Método dos Quadrados Mínimos e geração de barras de erro e de bandas de predição e confiança a fim de automatizar o tratamento e visualização desses dados.
 
 ## Instalação
 Para utilizar o projeto, clone o repositório em sua máquina, garantindo a existência de um ambiente compatível com a linguagem Python, como o JupyterLab. Antes da execução do notebook, garanta a instalação de todas as bibliotecas utilizadas. Execute as células sequencialmente, adicionando os dados experimentais e informações solicitadas.

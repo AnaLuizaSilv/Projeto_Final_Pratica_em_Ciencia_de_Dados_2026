@@ -16,14 +16,16 @@
 
 ## Índice
 <!--ts-->
-* [Descrição do projeto](##Descrição_do_projeto)
+* [Descrição do projeto](##Descrição-do-projeto)
 * [Objetivo](##Objetivo)
-* [Instruções para instalação](##Instruções_para_instalação)
-* [Bibliotecas utilizadas](##Bibliotecas_utilizadas)
+* [Instruções para instalação](##Instruções-para-instalação)
+* [Bibliotecas utilizadas](##Bibliotecas-utilizadas)
 * [Funcionalidades](##Funcionalidades)
-* [Avisos importantes antes da utilização do projeto](##Avisos_importantes_antes_da_utilização_do_projeto)
-* [Informações adicionais](##Informações_adicionais)
+* [Avisos importantes antes da utilização do projeto](##Avisos-importantes-antes-da-utilização-do-projeto)
+* [Informações adicionais](##Informações-adicionais)
 * [Conclusão](##Conclusão)
+* [Agradecimentos](##Agradecimentos)
+* [Docentes responsáveis](##Docentes-responsáveis)
 * [Referências](##Referências)
 <!--te-->
 

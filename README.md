@@ -26,6 +26,7 @@
 * [Conclusão](##Conclusão)
 * [Agradecimentos](##Agradecimentos)
 * [Docentes responsáveis](##Docentes-responsáveis)
+* [Autoria](##Autoria)
 * [Referências](##Referências)
 <!--te-->
 
@@ -118,6 +119,8 @@ Agradeço aos professores docentes responsáveis por ministrar a disciplina de P
 | :--: | :---: | :---: |
 
 ## Desenvolvedora
+| <img src="https://github.com/AnaLuizaSilv.png" width=115><br><sub>[Ana Luiza de Lima Silva](https://github.com/AnaLuizaSilv)</sub> |
+| :--: |
 Ana Luiza de Lima Silva, estudante do primeiro semestre do bacharelado em Ciência e Tecnologia da Ilum escola de ciência
 
 ## Referências

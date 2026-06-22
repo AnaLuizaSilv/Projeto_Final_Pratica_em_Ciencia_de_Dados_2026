@@ -35,7 +35,7 @@
 
 
 ## Objetivo
-<p align="justify"> Desenvolver uma ferramenta computacional em Python para análise estatística de dados experimentais, gerando tabelas e gráficos visualizáveis e exportáveis com as devidas análises de incertezas e parâmetros estatíscticos associados. O projeto integra o cálculo parâmetros estatísticos, realização de regressões matemáticas baseadas no Método dos Quadrados Mínimos e geração de barras de erro e de bandas de predição e confiança a fim de automatizar o tratamento e visualização desses dados.
+<p align="justify"> Desenvolver uma ferramenta computacional em Python (3.13.7) para análise estatística de dados experimentais, gerando tabelas e gráficos visualizáveis e exportáveis com as devidas análises de incertezas e parâmetros estatíscticos associados. O projeto integra o cálculo parâmetros estatísticos, realização de regressões matemáticas baseadas no Método dos Quadrados Mínimos e geração de barras de erro e de bandas de predição e confiança a fim de automatizar o tratamento e visualização desses dados.
 
 
 ## Instruções para instalação
@@ -43,19 +43,19 @@
 
 
 ## Bibliotecas utilizadas
-- pandas - utilizada na etapa de inserção e leitura dos dados fornecidos;
+- pandas (2.3.3) - utilizada na etapa de inserção e leitura dos dados fornecidos;
   
-- numpy - utilizada na etapa de geração dos gráficos e ajustes [4];
+- numpy (2.2.6) - utilizada na etapa de geração dos gráficos e ajustes [4];
   
 - math - utilizada para cálculos associados às funções auxiliares desenvolvidas;
   
-- ipywidgets - utilizada para criação de uma interface interativa para guiar o usuário nas etapas de exportação da tabela e escolha dos parâmetros para os gráficos [5];
+- ipywidgets (8.1.7) - utilizada para criação de uma interface interativa para guiar o usuário nas etapas de exportação da tabela e escolha dos parâmetros para os gráficos [5];
   
-- matplotlib.pyplot - utilizada para a geração e viualização dos gráficos [6,7];
+- matplotlib.pyplot (3.10.6) - utilizada para a geração e viualização dos gráficos [6,7];
   
 - ast - utilização do objeto "literal_eval" durante a etapa de recebimento dos dados para avaliar os dados inseridos pelo usuário [8];
 
-- scipy.stats - uso do objeto "t" durante a etapa de geração dos gráficos para calcular o valor crítico associado aos valores informados para a análise de incertezas por meio da distribuição t-Student [9].
+- scipy.stats (1.16.2) - uso do objeto "t" durante a etapa de geração dos gráficos para calcular o valor crítico associado aos valores informados para a análise de incertezas por meio da distribuição t-Student [9].
   
 - IPython.display - uso do objeto "display" para exibição do Dataframe de devolução dos parâmetros estatísticos e dos gráficos e opções de escolha associados aos ajustes e exportações [10].
 
@@ -117,6 +117,8 @@ Agradeço aos professores docentes responsáveis por ministrar a disciplina de P
 | <img loading="lazy" src="https://github.com/user-attachments/assets/17dfa7bf-5ca9-42df-b63e-917827fc6308" width=115><br><sub> [Prof. Dr. Daneiel Roberto Cassar](http://lattes.cnpq.br/1717397276752482) | <img loading="lazy" src="https://github.com/user-attachments/assets/5be40392-5473-4b8b-b636-a55cbf0114fd" width=115><br><sub> [Prof. Dr. James Moraes de Almeida](http://lattes.cnpq.br/4169321429650165) |  <img loading="lazy" src="https://github.com/user-attachments/assets/ca8bd41b-c6d0-479c-aacd-a3d2c6b45c0d" width=115><br><sub> [Prof. Dr. Leandro Nascimento Lemos](http://lattes.cnpq.br/8039429508021054) |
 | :--: | :---: | :---: |
 
+## Desenvolvedora
+Ana Luiza de Lima Silva, estudante do primeiro semestre do bacharelado em Ciência e Tecnologia da Ilum escola de ciência
 
 ## Referências
 [1] Hoffmann, R., & Univeridade de São Paulo. Escola Superior de Agricultura Luiz de Queiroz. (2017). Análise de regressão: uma introdução à econometria. Univeridade de São Paulo. Escola Superior de Agricultura Luiz de Queiroz.
